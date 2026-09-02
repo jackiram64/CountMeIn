@@ -15,6 +15,8 @@ ul li a:hover {
     background-color: #ffffff;
     color: black;
     border-radius: 30px;
+    opacity: 1.8;
+    transition: 0.5s;
 }
 
     ul {
@@ -25,3 +27,10 @@ ul li a:hover {
     background-color: #002DDF;
     border-radius: 30px;
 }
+
+body {
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2025/08/Nature-wallpaper-for-desktop-aesthetic-an-enchanting-sunset-over-a-tranquil-beach-with-gentle-waves-lapping-at-the-shore.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
